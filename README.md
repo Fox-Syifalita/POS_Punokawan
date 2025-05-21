@@ -3,17 +3,17 @@
 This project is part of Punokawan POS, Dashboard, and Back Office web and mobile app. Alright reserved for Punokawan Group.
 
 
-# FITUR POS
+# FITUR BACK OFFICE
 1. Login 
 3. Inventory
-4. Tambah User (restricted)
+4. Manajemen Karyawan (restricted)
 5. Supplier
 6. Pelanggan
 7. Penjualan
 8. Diskon
 9. Pembelian
 
-# FITUR BACK OFFICE
+# FITUR POS
 1. Penjualan
 2. Struk
 3. Barang
@@ -21,5 +21,5 @@ This project is part of Punokawan POS, Dashboard, and Back Office web and mobile
 
 # FITUR DASHBOARD
 1. Monthly/Weekly/Daily/Custom report
-2. Supplier report
+2. Supplier, kategori, item report (with detailing and edit)
 3. Bar chart
