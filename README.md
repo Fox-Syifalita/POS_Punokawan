@@ -1,5 +1,5 @@
 # POS_Punokawan
-updated 21/05/2025
+## updated 21/05/2025
 This project is the part of Punokawan POS, Dashboard, and Back Office web and mobile app. All right reserved to Punokawan Group.
 
 
